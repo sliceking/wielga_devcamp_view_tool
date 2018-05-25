@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WielgaDevcampViewTool::Renderer.copyright "Stan Wielga", "All rights reserved"
+```
 
 ## Development
 
